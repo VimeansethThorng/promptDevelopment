@@ -5,7 +5,7 @@
    以下のリンクへアクセスすると，参照していただける
    https://vimeanseththorng.github.io/promptDevelopment/
    
-   もしくは，以下のリンクにも，直接アクセスできる．
+   もしくは，次のリンクにも，直接アクセスできる．
    https://chat.openai.com/share/2e04a126-d263-41a1-84a1-4060a925ac5d
 
 3. プロンプトの説明ドキュメント：
